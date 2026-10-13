@@ -1,0 +1,4 @@
+- [ ] Keep the fuller AI SEO guide, remove its duplicate, and redirect the duplicate URL.
+- [ ] Make editorial internal links render correctly and repair links that target missing pages.
+- [ ] Reduce obvious image/video layout and loading overhead without changing the homepage video request.
+- [ ] Recheck sitemap and robots limitations, structured data, route metadata, and loading measurements.
